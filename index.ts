@@ -1,0 +1,1 @@
+let mesaage: string = "Hello"
